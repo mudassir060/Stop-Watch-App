@@ -1,0 +1,24 @@
+
+.ody{
+    background-color: black;
+    text-align: center;
+    margin-top: 250px;
+}
+div{
+    margin-bottom: 50px;
+}
+h1{
+    color: white;
+    display: inline-block;
+    background-color: rgb(255, 167, 167);
+    width: 10%;
+    border-radius: 50%;
+}
+
+.btn{
+    width: 6%;
+    color: white;
+    margin-top:   10px;
+    margin-bottom: 1px;
+}
+
